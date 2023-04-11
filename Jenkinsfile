@@ -17,6 +17,8 @@ pipeline {
             sh 'mvn clean -e'
             echo 'Build stage done'
         }
-     }
+     } 
+   
+   }
    
 }
