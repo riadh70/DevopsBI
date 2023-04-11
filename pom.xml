@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tn.esprit</groupId>
 	<artifactId>examenScrum</artifactId>
-	<version>1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>examenScrum</name>
 	<properties>
 		<java.version>8</java.version>
@@ -63,11 +63,7 @@
 					</excludes>
 				</configuration>
 			</plugin> 
-			<plugin>
-                                <groupId>org.apache.maven.plugins</groupId>
-                                <artifactId>maven-resources-plugin</artifactId>
-                                <version>3.2.5</version>
-                        </plugin>  
+
 		</plugins>
 	</build>
 </project>
