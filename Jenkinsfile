@@ -83,8 +83,8 @@ pipeline {
               sh 'mvn sonar:sonar'
              }
                  
-//          }
-//       } 
+         }
+       } 
         
   
  //    stage("Upload Jar  To Nexus") {
